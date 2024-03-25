@@ -1,0 +1,13 @@
+- Tháo sim
+- (Nếu qua nước khác)
+	- (Nếu dùng iphone)
+		- Cài đặt chung -> đổi ngôn ngữ, vùng, múi giờ
+		- Fake VPN rồi mới 
+	- Tải apk Tiktok nước ngoài
+	- fake IP và check bằng whoer
+	- Đăng ký bằng hotmail hoặc gmail
+	- xóa bộ nhớ đệm, bộ nhớ và xóa ứng dụng
+	- Khai báo thuế
+		- cá nhân
+		- điền tên như trong giấy tờ (ko dấu) và Email đã đăng ký kênh
+		- Không lấy tổ chức có [PO BOX] và có số tiền thuế
