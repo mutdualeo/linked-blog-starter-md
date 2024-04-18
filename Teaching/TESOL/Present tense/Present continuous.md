@@ -1,0 +1,13 @@
+- (+):I am teaching
+- (-): I am not teaching
+- (?): am I teaching
+- usages:
+	- actions in progress at the time of speaking
+	- action in progress around the time of speaking
+- Teaching idea:
+	- show picture of activities and describe
+	- report differences in the picture
+	- MIME actions
+		- low level: 1 word: you are eating
+		- high level: x word: you are eating spicy foods
+- 

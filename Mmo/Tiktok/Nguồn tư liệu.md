@@ -9,6 +9,7 @@
 	- NCS
 	- lấy trực tiếp từ tiktok
 	- https://thirtydollar.website/
+	- https://www.myinstants.com/en/index/us/ : sfx 
 - Niche
 	- Google trend visual: tìm chủ đề đang hot
 	- Google trend: theo dõi về chủ đề đang muốn chiến

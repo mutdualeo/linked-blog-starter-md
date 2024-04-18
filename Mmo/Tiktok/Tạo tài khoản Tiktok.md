@@ -11,3 +11,17 @@
 		- cá nhân
 		- điền tên như trong giấy tờ (ko dấu) và Email đã đăng ký kênh
 		- Không lấy tổ chức có [PO BOX] và có số tiền thuế
+- IMEI:
+	- If the calling app has been granted the READ_PRIVILEGED_PHONE_STATE permission; this is a privileged permission that can only be granted to apps preloaded on the device.
+	- If the calling app is the device owner of a fully-managed device, a profile owner of an organization-owned device, or their delegates (see [DevicePolicyManager.getEnrollmentSpecificId()](https://developer.android.com/reference/android/app/admin/DevicePolicyManager#getEnrollmentSpecificId())).
+	- If the calling app has carrier privileges (see [hasCarrierPrivileges()](https://developer.android.com/reference/android/telephony/TelephonyManager#hasCarrierPrivileges())) on any active subscription.
+	- If the calling app is the default SMS role holder (see [RoleManager.isRoleHeld(java.lang.String)](https://developer.android.com/reference/android/app/role/RoleManager#isRoleHeld(java.lang.String))).
+	- If the calling app has been granted the [Manifest.permission#USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER](https://developer.android.com/reference/android/Manifest.permission#USE_ICC_AUTH_WITH_DEVICE_IDENTIFIER) permission.
+- Check later:
+	- If you use "BLUESTACKS" or "NOX" ANDROID emulators on your PC then use "Google Voice" to make fake phone numbers and Associate them with spoof emails then root the virtual device that is on your "BlueStacks" or "NOX" emulator with a VPN that tunnels your traffic and has no detectable leaks of information ( you have to download an application to scan for any leaks) also it has to be a fresh browser installation and on the rooted device you are emulating you have to change the IMEI and all subsequent data each time you're verifying a new account and it all has to be proxied. You can also try on your emulated device forcing an old installation of a outdated application for TEMU. I use the web client not the application and I used an outdated version of the web client then I forced the pages to load individually by copying hyperlinks and taking out all the extra data points for pop-ups that were in the link and saved those to a spreadsheet then opened the old application forced it to run without shutting down and background and on the web browser use those hyperlinks to open the application via Android command once the referral has been accepted I saved the web link for its acceptance and in the top of the link I changed the md5 hash to match the next user account I made and just clicked enter I know it seems complicated but once it's all set up all you have to do is hit F5 to refresh change a single value in the web link and hit enter took me about 2 days to set it all up properly and I made 30 accounts in 5 minutes completed fishland completed Farmland new user everything completed it all.
+	-  dolphin anty : anti detect browser 
+	- Parallel SpaceSpace: app cloning
+	- https://www.blackhatworld.com/seo/ideas-to-turn-emulators-into-real-phones.1487511/
+	- https://www.blackhatworld.com/seo/how-to-snipe-and-trade-meme-coins-for-100x-full-guide.1583707/
+	- cafemmo
+	- https://vinasupport.com/danh-sach-cac-dien-dan-mmo-cua-viet-nam-va-nuoc-ngoai/

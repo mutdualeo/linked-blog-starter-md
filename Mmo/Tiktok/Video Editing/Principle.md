@@ -1,0 +1,21 @@
+- Cảnh 
+- ko cần nhiều cảnh để kể 1 hoạt 
+- cut on action: cut ở hành động đang diễn ra 
+- Thừa khung dưới của chủ thể có thể gây khó chịu cho 
+- Quay nhiều góc để sống 
+- Cảm nhận nhịp điệu nhạc theotheo, cắt theo nhịp điệu NOT beat
+- Sound
+	- sound nên để dao động từ 0 và -6 để không bị chói tai
+	- Xem soundgraph trên capcut để không có đỉnh vàng
+	- negative space 
+	- nhạc nền: -15  -20db
+	- 5 loại âm thanh:
+		- âm thanh môi trường
+		- âm thanh thật 
+		- âm thanh chuyển động: camera movement sfx 
+		- âm thanh cao trào
+		- âm thanh phóng đại: exaggrated sfx 
+	- âm thanh bán hàng:
+		- âm thanh thông báo
+		- âm thanh dự đoán
+		- âm thanh kết quả 

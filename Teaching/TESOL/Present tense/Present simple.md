@@ -1,0 +1,37 @@
+- I/You/We/They teach English
+- He/She/It teaches English
+- Singular:
+	- s: work, play
+	- es: ch, sh, z, s, do/go
+	- ies: (consonant + y): cries, fly
+	- irregular:
+		- be (am/is/are)
+		- have (have/has)
+	- do/does (statement in negative form)
+		- Do: I/you/we/they
+		- Does: He/she/it:
+	- do/does (statement in question form)
+		- Do: I/you/we/they teach?
+		- Does: he/she/it teach?
+	- usage:
+		- routine
+			- I teach every Monday
+		- general facts/truths
+			- The sun rises in the East
+- Teaching ideas:
+	- active stage
+	- appropriate
+		- timings
+		- ages
+		- language levels
+		- class sizes
+		- interests/cultures
+	- student talk time
+	- Class activities:
+		- find someone who: go to class and find someone who has:
+			- plays  a musical instrument
+			- is a teacher
+			- has a brother and a sister
+			- goes to bed before
+			- does a lot of sport
+

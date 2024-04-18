@@ -1,0 +1,21 @@
+https://alcohol.org/therapy/mi/
+- goals of MI:
+	- understanding addiction
+	- reducing or stopping substance abuse
+	- improvising physical health, mental health and social functioning
+	- increasing changes of obtaining and maintaining employment
+	- reducing crime
+	- reducing the risk of alcohol-related risks
+- aspects of motivation
+	- "ready, willing, able"
+- phases:
+	- precontemplative stage: not considering the need for change
+	- contemplative stage: actively ambivalent about need for change
+	- preparation stage: planning to make changes
+	- action stage: actively involved in executing plan to change
+	- maintenance stage: maintaining and sustaining long-term change
+- principles
+	- express empathy: T uses reflective listening skills for better understanding of perspective or experience without judge, criticism or blame
+	- develop discrepancy: guide P to think about the different ways your current behavior might impact their future goals. Considering how it impact P's life and social roles: parent, partner,... with pros and cons
+	- roll with resistance: T encourage P see things from new or different perspective, but allow P to have own opinion. The decision change is up to P
+	- support self-efficacy: make P believe they can make positive impact on life. P might believe they cannot influence events in lives or make behavioral changes -> give up hope

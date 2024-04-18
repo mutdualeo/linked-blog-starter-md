@@ -1,0 +1,124 @@
+It is the structure of a speech
+Eg: My older brother lives in Tokyo
+Possessive - adj - S - V - Place (intro) - Place (location)
+**Type:**
+- Noun
+	- Category by things:
+		- Person
+		- Place
+		- Thing
+		- Concept/idea
+	- Category by countable/uncountable
+	- Category by type
+		- Common (not capitalize)
+			- Brothers, city, street
+		- Proper (capitalized)
+			- Tom, Tokyo, Le Loi street
+		- Compound (2N-> 1N)
+			- Bookcase, carpark
+		- Collective (group)
+			- Family, herd, pride
+- Verb
+	- Type of action
+		- Action (see this in action)
+		- State (a state of being)
+			- be, seem, appear, have, own
+		- Auxiliary Verb (helping verbs)
+			- help form structure
+				- Questions
+					- Do you live in Vietnam
+				- Negatives
+					- I don't live in Vietnam
+				- Short answers
+					- Yes, I do (refer to the question)
+				- Tense
+						- eg:I live(s)/living/lived
+					-  Regular/irregular
+						- Regular: Work, play
+						- Irregular: Go, speak
+				- Changing verb forms
+					- 1 syllable:
+						- CVC: Shop -> Shopping / Shopped
+						- end in C + Y: cry -> crying/cried
+							- V + Y: play -> playing/played
+					- 2 syllable:
+						- CVC + stress in final: oc'cur -> occuring/occured
+							- if stress in first: no change
+		-
+- Adj
+	- describe N: give more information
+		- eg: chair. age color material -> old, black, leather chair
+	- Possessive adj: 
+		- my
+		- your
+		- his
+		- her
+		- its
+		- our
+		- their
+	- comparative/superlatives
+		- comparative
+			- faster
+			- older
+			- happier
+			- more modern
+			- better
+			- worse
+		- superlatives
+			- the fastest
+			- the oldest
+			- the biggest
+			- the most modern
+			- the best
+			- the worst
+- Adv
+	- manner: how things are done
+		- quickly, cleverly
+	- place: where actions happen 
+		- here, there
+	- time: when actions happen
+		- now, recently
+	- frequency: how often actions happen
+		- often, always
+	- Degree: modify adj and adv
+		- very, really, quite, extremely
+- Preposition: shows relationship between a N/PN and the rest of the sentence (Still missing)
+	- time
+		- before, during, in, at, on
+	- place
+		- in, at, on, under, between
+	- movement
+		- toward, from, to, through
+	- others
+		- of, with, for
+- Pronoun: take the place of a noun
+	- personal
+		- S (DOer)
+			- I, you, we, they, he she
+		- O (RECEIVEer)
+			- me, you, us, him, her
+	- Reflexive (do/speak to yourself, themselves )
+		- myself, yourself
+	- Relative: add more information
+		- which, where, when
+	- Possessive:
+		- mine (PN) - my (Adj)
+		- Yours (PN) - your (Adj)
+- Infinitive: To + Base V
+	- want
+- Gerund: used as a N 
+	- I enjoy playing
+	- Prep + gerund
+		- How about going to the beach?
+- Article
+	- indefinite: a/an
+		- non-specific
+		- first-mention
+	- definite: the
+		- specific
+		- additional time sth is mentioned
+	- zero
+		- in general/all
+- Conjunction: linking/joining word
+	- and (both), but, or (choices)
+Tips: when teaching parts of speech, find 1 words that suffice almost all of them. However, we need to clear the gerund

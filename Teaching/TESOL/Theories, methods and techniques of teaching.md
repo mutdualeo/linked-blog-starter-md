@@ -1,0 +1,122 @@
+
+
+| "Teachers often credit the intelligence of their own children with their genes" | "the intelligence of their students with their teaching" |
+| ------------------------------------------------------------------------------- | -------------------------------------------------------- |
+| Nature                                                                          | Nurture                                                  |
+- Approach, method, technique: Approach is set of principle that method get used of. In order to execute the method, techniques is applied
+- Questions:
+	- Where did it come from?
+	- what does it involve?
+	- what is positive about it?
+	- What is negative about it?
+- Methods:
+	- The classical method (grammar translation)
+		- How: taking N.Lang to F.Lang vise versa
+		- Pros: 
+			- Most popular method
+			- Able to inference with similar grammar
+		- Cons: 
+			- Does not develop speaking
+			- Unnatural 
+	- Direct method (natural method)
+		- How: try to recreate natural environment to learn English
+			- Audio lingualism (army method)
+				- behaviorism Pavilov Stimulus -> Response
+				- Listen - repeat (drills)
+		- Pros: 
+			- Quickly learn vocabulary
+			- Pronunciation
+		- Cons: 
+			- Realistic context
+			- Errors not a faults in the learning process
+	- The silent way - Caleb Gattegno
+		- How: constructivist.
+			- use colored rods to represent a sound in phonemes -> teach vocab and grammar by choosing suitable color and length of the rods
+		- Pros: 
+			- Used cognition in the learning process (brain is physically involve)
+			- Fun
+		- Cons:
+			- Need learning before applying (both T and S)
+			- Distant from teacher
+	- Suggesterpedia
+		- Affective filter: this method try to lower this by mimicry the womb
+			- Internal: Previous experience (failure in the past -> inhibit future)
+			- External: surrounding while we study (maybe it's too noisy)
+		- How: reduce affective filter by using internal and external
+			- Music
+				- 1st concert lively music (active)
+					- active part of lesson -> start brainwave -> put into receptive mood
+				- 2nd concert baroque music (passive)
+					- dictation process
+					- "sponge"
+		- Pros:
+			- very comfortable
+			- clear psychological theory
+		- Cons:
+			- Too different
+			- Not easy to create the condition
+	- Total physical response
+		- how: introduce movement into the learning
+		- Pros: 
+			- good for young learners
+			- long term retention
+		- Cons:
+			- not good for high level and 1-1 professional 
+			- long silent period 
+
+<------------------------------------------------->
+nature                                                                nurture
+- methodology
+	- ESA 
+		- Straight arrow ESA lesson: E -> S -> A
+			- How?
+				- E - engaging phase 
+					- Purpose
+						- To get the students talking and thinking in English
+					- Typical activities
+						- Fizz Buzz
+						- Listing alphabet game
+				- S - study phase - (1)boardwork - (2) activities
+					- Purpose: cover teaching, check understanding
+						- boardwork: elicit the teaching point from the students. Cover any gaps in knowledge
+						- Ask targeted specific questions about the teaching point
+					- Typical activities: 
+						- gap fill activities
+						- matching activities
+						- word order
+				- A - activate phase - put the learning in a realistic context 
+					- Purpose: put the material into a realistic context. Actual language use
+					- Typical activities
+						- Roleplay
+						- Surveys (mill drill)
+						- debates  
+		- Pros
+			- Communication
+			- works for all particular level
+		- Cons
+			- become predicable (boring for high lv students)
+			- noisy
+		- Sample: 
+			- engage: Show a video of animals, students say what they like and elicit more animals
+			- Study
+				- boardwork
+					- it can run
+					- it can't 
+				- worksheet
+					- gapfill
+					- matching
+				- activate
+					- create a super animal
+		- Boomerang ESA: E -> A -> S -> A2
+			- E: discuss about jobs and interviews
+			- A: role play
+			- S: boardwork - language and grammar; worksheets - check understanding
+			- A2: repeat roleplay
+		- Patchwork ESA: E -> (       ) -> A
+			- E:  students look at holiday photos and talk about their likes and dislikes
+			- A: roleplay travel agent/customer using travel brochure (T look for gaps and knowledge)
+			- S: teacher covers gap above
+			- A: used the fixed knowledge to create a travel brochure
+			- E: what they like about radio/Tv
+			- S: cover language grammar from advertise
+			- A: students create their own TV advertise

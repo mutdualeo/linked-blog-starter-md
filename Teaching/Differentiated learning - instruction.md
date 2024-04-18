@@ -1,0 +1,12 @@
+"fair doesn't always mean treating everyone equally"
+- why?
+	- different students bring different talent and difficulties to classroom -> teacher must recognize
+	- different learning style
+	- engagement varies
+- differentiate in 3 areas:
+	- content:
+		- allow students to choose topics (they still have to think tho)
+	- process:
+		- same process vs mixed group
+	- product:
+		- products for evaluation

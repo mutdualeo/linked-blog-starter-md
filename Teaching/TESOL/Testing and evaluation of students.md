@@ -1,0 +1,24 @@
+- placement test = Level test : place them in particular of class
+	- All 4 skills are tested
+	- Progressive (easy -> hard)
+		- days of week
+		- identify: tense, part of speech
+			- today is Wednesday -> I am eating rice -> I have never eaten rice
+- diagnostic test: tells us a bout students' strengths, weaknesses and aptitude to planning on filling the gaps
+- progress: All 4 skills are tested. It is often required by school. Overall, it is useful for teacher to show class's weakness
+- practice: used for revision purposes, it is used internal and external exams. It must be as near as possible to the style and context of the real exam
+- proficiency: 
+	- General English
+		- Cambridge suite
+		- 5 LV of exam:
+			- KET
+			- PET
+			- FCE
+			- CAE
+			- CPE 
+	- Business
+		- TOEIC: cover 4 skills that used by companies
+		- Cambridge BEC
+	- Academic
+		- TOEFL: entry requirement in universities
+		- IELTS: all skills, entry exam for university

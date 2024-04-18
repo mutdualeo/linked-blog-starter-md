@@ -1,0 +1,11 @@
+Shortcuts:
+- mouse movement:
+	- move timeline up down: 2 finger scroll
+	- move timeline left right: alt+mouse scroll: 
+- shortcut
+	- cut: C
+	- move: V
+	- redo: ctrl + shift + z
+	- Select everything in right of mouse: A
+	- Select everything in left of mouse: shift A
+	- disable layer: shift E
