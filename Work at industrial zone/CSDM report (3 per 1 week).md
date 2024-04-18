@@ -1,0 +1,20 @@
+- Terminology
+	- MPS: Master Production Schedule or build plan
+	- M-Part: Mass production part
+	- P-part: Personalisation part number - personalization
+	- FD: Forward Deploy 
+	- DS: Direct SHip
+	- CTB: Maximum number of unit we could build in a given time frame based on materials supply constraint. Maximum CTB is the MPS
+	- FATP: Final Assembly & Test - THis is the main assembly line for production
+- Key partner:
+	- GSM: global supply management
+	- MPM: Materials Planning management - Materials counterpast to WW Planner. Assigned by product and responsible for Publishing the Clear to build (CTBy 
+	- NPI: New Product Introduction - manages product launches and coordinates
+	- OPS: Operations - capacity planning and other manufacturing activities 
+	- SDE: Supply Demand Execution - Order execution activities across all lines of the business. Working with SDM and RO -> where product be delivered and should be sourced from for orders
+	- APO LOG: APO Logistics - managing forwarders and oversees shipmetns and TDM ownership
+	- OEM (the Factory): Original Equipment Manufacturer - Apple manufacturing sites
+- Packout report: 
+	- CSDM leverages on daily working cadence. Show MPN history and forecast future. moreover, CSDM adjust pack plan based on business needs and monitor packout status vs OEM capacity 
+- Stock Shipment report (cont.)
+	- detail brea

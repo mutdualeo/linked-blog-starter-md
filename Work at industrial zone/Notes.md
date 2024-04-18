@@ -1,0 +1,39 @@
+Hong Hai - FIT (foxconn interconnect technology)
+50$- day if work aboard (can ask for them later)
+- Business unit (BU)
+	- FAD: audio
+	- SSI: sound system
+	- connector
+	- cable
+	- auto
+	- consumer accessories
+- vantrung 1: audio
+- OPM
+	- UPH (unit per hour)
+	- line of production
+- audio team organization
+-Boss:
+- HK lang 
+- Kevin Chan
+- departmment:
+	- PM
+		- Gabriel SU
+		- Max Ding
+	- QA
+		- Jo jiang
+		- kimi huang
+		- Wesley lee
+	- Planning
+		- Henry Lu
+		- Tiger Luo
+	- Manufacturing
+		- LW Zhong (head now)
+		- Yong Yin Yi
+		- Andy Leng
+	- Molding 
+- F12: administratino
+- F6: warehouse (whole, materlais incoming, product outcome)
+- F07: production (headphone)
+- F1,2,3,9: Beat production
+- F10: packaging
+- F8: reliability lab (lightning)

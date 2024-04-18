@@ -1,0 +1,10 @@
+- WW shipment summary
+	- weekly AIR/SEA/LAND shipment
+		- PPN
+		- Category
+		- Product name
+		- Region
+		- MPM 
+		- MPN & Region
+- PITS
+- AIR/SEA/LAND shipment breakdown
