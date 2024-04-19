@@ -1,0 +1,14 @@
+- Intro
+	- customer (third partner, worker, engineer,etc.) may want to visit 
+- Login
+	- 1: Locus Note App
+	- 2: Login: Foxconn99
+	- 3: CHoose VNA function
+	- 4: use email account for login
+	- 5: Choose C
+	- 6: Create new application
+- Create new application
+	- Choose manager for signing
+	- Download file and modified customer information and upload again into application
+	- Choose suitable manager
+	

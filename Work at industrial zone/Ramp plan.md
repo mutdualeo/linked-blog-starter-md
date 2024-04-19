@@ -1,0 +1,53 @@
+- Ramp plan by week
+	- working day (normal/overtime/NOovertime)
+	- COMBOX (TOTAL/ROW/EU)
+		- Daily/weekly input
+		- Daily/weekly capacity
+		- Demand
+		- STOCK
+		- #ORT 
+		- #DOS
+		- #WOS
+	- HANKING (TOTAL/ROW/EU)
+		- Daily/weekly input
+		- Daily/weekly capacity
+		- Cum Build
+		- Demand
+		- STOCK
+		- #ORT 
+		- #DOS
+	- PACKING (TOTAL/ROW/EU)
+		- Daily/weekly input
+		- Daily/weekly capacity
+		- Cum Build
+		- Apple Care Demand & CSD
+		- #MPS 
+		- Cum MPS
+		- Demand
+		- STOCK
+		- #ORT 
+		- #DOS
+		- #WOS
+- Ramp plan by day
+	- COMBOX/HANKING/PACKING
+		- Shift
+		- Working time/day
+		- Daily input (PCS)
+			- Daily capacity
+		- Demand
+		- Stock (PCS)
+		- L1 day/night shift
+		- L2 day/night shift
+		- L3 day/night shift
+- UPH Curve by day
+	- COMBOX/HANKING/PACKING
+		- UPH/Working time/YIELD RATE
+			- L1/2/3 day/night shift
+- PK RAMP (NP?)
+	- need ()
+	- In stock ()
+	- Output ()
+- MPS
+	- MPN
+	- Region
+	- Data
