@@ -1,0 +1,37 @@
+- #SDM: Supply demand management
+	- 3 region: #AMR, #EMEIA, #PAC
+	- planning process: Demand Planning -> supply planning -> production -> shipment
+		- Demand planning: 
+			- historical sales
+			- seasonality 
+			- YoY Growth 
+			- Promotion 
+			- Customer Order 
+			- Financial target 
+			- competitor 
+		- Supply planning 
+			- Financial billing target
+			- inventory target
+			- production mix 
+			- build ahead strategy
+- #CSDMRnD
+	- 3 roles
+		- Strategic Business Management
+			- Priority Build Direction
+			- Daily input/packout plan
+			- handover projection
+			- OEM/SDM interface
+			- PO & 846 tracking
+			- Shipping Priority
+		- Quote Management 
+			- OCT issue management
+			- AOS FG tracking
+			- Executino planning
+			- Emergency Quote Change
+			- OEM Shut-down quote plan
+		- Reporting
+			- APR Attainment
+			- Short Call Off (NPI or Constant)
+			- PPS Risk Analysis
+			- PSD+ scheduling
+- #csdm 
