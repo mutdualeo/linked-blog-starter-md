@@ -1,0 +1,12 @@
+- attached maximum 4 report:
+	- #CTB (if change in materials)
+	- Ramp plan
+	- Ship report
+	- FATP daily Quality Report
+- IOS step-by-step:
+	- unhide overview
+	- Set date
+		- pay attention to IOS date when day-off
+		- Only need 2 file: IOS & Quality
+	- Capture chart
+		- trend chart set to 50%

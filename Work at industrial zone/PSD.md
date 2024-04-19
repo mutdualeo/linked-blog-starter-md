@@ -22,4 +22,23 @@ PSD (mon[before 2pm] tue fri): cumulate B825 vs a247
 	In case input have trouble, send CTB report with capture SP will be supply plan
 	GSM: global material management
 	MPM: material product management
-	
+- PSD step-by-step:
+1. Duplicate and put to new folder (For back-up, leave it at least for 2Q)
+2. Take from PP2 (A247)
+3. Take from PP3 (B815)
+4. Check #1 
+	1. Ship report data compare
+5. Check packout sum before closing
+6. Check #2 
+	1. Check number from IOS 
+7. Update data B825 and A247 with each code
+	1. Check sum data from PSD vs Ship report
+	2. If product have same NP and shipment type, merge
+8. Check BOH
+	1. inventory = packout - shipment -> check gap -> take fill from B825+A247
+	2. Copy today -1 to keep planning numbers, type today statistic manually
+	3. Check inventory sum (**IMPORTANT**)
+9. Upload
+	1. delete history data
+	2. partner.apple.com
+	3. PSD plus -> FXVY - ACCY -> CW -1 to +4 -> PM
