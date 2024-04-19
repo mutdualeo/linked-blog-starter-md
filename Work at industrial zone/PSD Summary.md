@@ -11,8 +11,8 @@
 			- DS Shipment air/ground/sea/rail/non-rev
 				- Taken from[[(code of product) Ship Report yyymmdd]]
 			- IOS QTD Actuals Total
-	- BOH
-		- Inventory (=yesterday PK-today shipment; 
+	- #BOH
+		- Inventory (=yesterday PK-today shipment)
 		- MP Inv On Hand (=Packout- FD&DS shipment) 
 		- SPQAH Inv
 		- MPQAH Inv
