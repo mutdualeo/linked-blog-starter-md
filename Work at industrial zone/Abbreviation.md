@@ -65,6 +65,7 @@ ___
 #DDP / #DAP: Deliver Duty Paid
 #DDU: Deliver Duty Unpaid
 #DOE: Design Of Experiment (way to improve performance/optimize product design on processing by experimental means )
+#DOS: Delivery of supplier
 #DPPM: Defective Parts per million
 #DVT: Design Validation/Testing
 #DFM: design fixture modification
@@ -94,6 +95,7 @@ ___
 #OOO: out of office
 #ORT Ongoing Reliability Test
 #PCBA: Print Circuit Board Assembly
+#PO Purchase Order
 #POR: Plan of record (current drawing, sample, product, etc.  being documented on offical specs and drawing)
 #PRQ: Post Ramp Qualification
 #PVT: Production Validation/Verification Testing
@@ -105,3 +107,4 @@ ___
 #SIP: Standard Inspection Procedure
 #SMT: Surface Mount Technology
 #TTF: Test to Failure
+#WOS : Weekly Output Stock

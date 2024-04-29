@@ -1,12 +1,27 @@
 - attached maximum 4 report:
 	- #CTB (if change in materials)
 	- Ramp plan
-	- Ship report
+	- Ship report 
 	- FATP daily Quality Report
+- Note:
+	- Remove Sunday column in `Shipment by region` soon as the customer's report only take data from Mon -> Sat
 - IOS step-by-step:
-	- unhide overview
+	- Get IOS from pp3 sis Thu 29142 And Quality report (the .number file,from Trang sis's bf)
+	- get ship report (alina/ 29189)
+		- get value, if no changes, copy the last one
+	- unhide overview, today -1 cus count work from yesterday. Copy from formula to table
 	- Set date
 		- pay attention to IOS date when day-off
-		- Only need 2 file: IOS & Quality
-	- Capture chart
+	- Copy ship report to Shipment -VN of IOS. Only take value.
+	- save
+	- Check
+		- PSD vs
+			- IOS - Shipment VN
+	- Capture chart and paste to mail
 		- trend chart set to 50%
+	- Write overall data cutoff
+	- Only need 2 file: IOS & Quality
+	- Report any upcoming day-off
+	- Attached files
+		- ship report
+		- Quality Input

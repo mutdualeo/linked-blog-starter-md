@@ -1,13 +1,41 @@
+- What is it?
+	- 
+- Note: 
+	- Ramp summary by quarter is sent to customer (weekly)
+	- negative number = gap between previous PSD
+	- If day off, PM need change in "Ramp build summary by quarter"  -> Need check: day off, suitable (beware negative number)
+	- ROW all, EU division only have FATP to Hanking
+	- daily capacity = L1/2/3 shifts
+	- daily input = capacity * NG `ensuring product meet the demand excluding NG`
+	- Because this is just a forecast, changes will be made in accordance to reality situation
+	- Stock always positive (to show availability)
+- Things need to report: 
+	- Based on MPS update till xx date. I have adjust the plan...
+	- highlight changes comparing previous report
+		- (**IMPORTANT**)shifts 
+		- Needs changes in Quarter
+		- Report WOS when abnormal changes appear
 - Ramp plan by week
-	- working day (normal/overtime/NOovertime)
-	- COMBOX (TOTAL/ROW/EU)
+	- working day (normal/overtime/NO overtime)
+		- Maximum shift capacity = shifts * production li';o/i
+	- COMBOX (AKA: FATP) (TOTAL/ROW/EU)
 		- Daily/weekly input
+			- daily input = Weekly input / working day
+			- weekly input = daily input * working day
 		- Daily/weekly capacity
+			- daily capacity = weekly capacity / working day
+			- weekly capacity =  daily capacity * working day
 		- Demand
+			- = Hanking total input
 		- STOCK
+			- Stock (EU and ROW) - ORT
 		- #ORT 
+			- = 224 * shifts
 		- #DOS
+			- Stock/ hanking input  `because COMBOX is material for Hanking`
 		- #WOS
+			- Stock/Hanking input+1 `calculation for future needs`
+			- `=Stock of today/average stock today+2`
 	- HANKING (TOTAL/ROW/EU)
 		- Daily/weekly input
 		- Daily/weekly capacity
@@ -20,14 +48,20 @@
 		- Daily/weekly input
 		- Daily/weekly capacity
 		- Cum Build
-		- Apple Care Demand & CSD
+		- Apple Care Demand & CSD: stock for 1-1 warranty.
 		- #MPS 
 		- Cum MPS
 		- Demand
-		- STOCK
+		- STOCK (PCS)
+			- `=today-1 STOCK + Weekly capacity - MPS - Apple Care`
 		- #ORT 
 		- #DOS
 		- #WOS
+			- if rise: future need is high -> push WOS. In case they want to push productivity, "Vâng để em đi xác nhận lại với bộ phận liên quan" Cus it is beyond PM authority
+			- if fall
+				- Negative ->call for reporter for confirmation
+				- due to MPS abnormal rise
+			- Cus it just the forecast, the plan might have changes
 - Ramp plan by day
 	- COMBOX/HANKING/PACKING
 		- Shift

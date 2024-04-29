@@ -1,0 +1,27 @@
+{
+	"nodes":[
+		{"id":"eb188d1534306418","type":"file","file":"Remote note/Work at industrial zone/MPS (1 per Week, send immediately to internal).md","x":39,"y":-56,"width":400,"height":400,"color":"1"},
+		{"id":"24f10a99222ed1fb","type":"file","file":"Remote note/Work at industrial zone/Pack out plan.md","x":654,"y":-58,"width":325,"height":314},
+		{"id":"a87f8641cb6633fd","type":"file","file":"Remote note/Work at industrial zone/Ramp plan.md","x":1251,"y":-58,"width":325,"height":314},
+		{"id":"db6dde6f7e8b14bd","type":"text","text":"","x":90,"y":442,"width":299,"height":81},
+		{"id":"61c9f9043170d765","type":"text","text":"MPS","x":692,"y":382,"width":250,"height":60},
+		{"id":"6ee88086355d210d","type":"text","text":"Pack Out","x":692,"y":577,"width":250,"height":60},
+		{"id":"ad9058c0d9335286","type":"text","text":"COMBOX/FATP","x":1289,"y":352,"width":250,"height":60},
+		{"id":"7252d90874bd02bc","type":"text","text":"Hanking","x":1289,"y":517,"width":250,"height":60},
+		{"id":"ea3a0298e3c2d93b","type":"text","text":"Packing/Output","x":1289,"y":676,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"08d79d85994e0dec","fromNode":"eb188d1534306418","fromSide":"right","toNode":"24f10a99222ed1fb","toSide":"left"},
+		{"id":"f0233e14918084bd","fromNode":"24f10a99222ed1fb","fromSide":"right","toNode":"a87f8641cb6633fd","toSide":"left"},
+		{"id":"d1fb3f3d78362b6e","fromNode":"24f10a99222ed1fb","fromSide":"bottom","toNode":"61c9f9043170d765","toSide":"top"},
+		{"id":"abde30ffa65ecbed","fromNode":"61c9f9043170d765","fromSide":"top","toNode":"24f10a99222ed1fb","toSide":"bottom"},
+		{"id":"487ac3dc421be967","fromNode":"6ee88086355d210d","fromSide":"top","toNode":"61c9f9043170d765","toSide":"bottom"},
+		{"id":"6912ed5c788b199c","fromNode":"61c9f9043170d765","fromSide":"bottom","toNode":"6ee88086355d210d","toSide":"top"},
+		{"id":"18b4f1cb86556e58","fromNode":"a87f8641cb6633fd","fromSide":"bottom","toNode":"ad9058c0d9335286","toSide":"top"},
+		{"id":"5ef9f3d755fcef6b","fromNode":"ad9058c0d9335286","fromSide":"top","toNode":"a87f8641cb6633fd","toSide":"bottom"},
+		{"id":"3034d1dac7ab551b","fromNode":"7252d90874bd02bc","fromSide":"top","toNode":"ad9058c0d9335286","toSide":"bottom"},
+		{"id":"ec90ed7dd000fca1","fromNode":"ad9058c0d9335286","fromSide":"bottom","toNode":"7252d90874bd02bc","toSide":"top"},
+		{"id":"05017a5e6f0e3276","fromNode":"7252d90874bd02bc","fromSide":"bottom","toNode":"ea3a0298e3c2d93b","toSide":"top"},
+		{"id":"082ee99ea0b0a106","fromNode":"ea3a0298e3c2d93b","fromSide":"top","toNode":"7252d90874bd02bc","toSide":"bottom"}
+	]
+}
