@@ -1,14 +1,23 @@
 {
 	"nodes":[
-		{"id":"eb188d1534306418","type":"file","file":"Remote note/Work at industrial zone/MPS (1 per Week, send immediately to internal).md","x":39,"y":-56,"width":400,"height":400,"color":"1"},
 		{"id":"24f10a99222ed1fb","type":"file","file":"Remote note/Work at industrial zone/Pack out plan.md","x":654,"y":-58,"width":325,"height":314},
-		{"id":"a87f8641cb6633fd","type":"file","file":"Remote note/Work at industrial zone/Ramp plan.md","x":1251,"y":-58,"width":325,"height":314},
-		{"id":"db6dde6f7e8b14bd","type":"text","text":"","x":90,"y":442,"width":299,"height":81},
+		{"id":"db6dde6f7e8b14bd","type":"text","text":"A-MPS/ NP-MPS","x":90,"y":442,"width":299,"height":81},
 		{"id":"61c9f9043170d765","type":"text","text":"MPS","x":692,"y":382,"width":250,"height":60},
 		{"id":"6ee88086355d210d","type":"text","text":"Pack Out","x":692,"y":577,"width":250,"height":60},
-		{"id":"ad9058c0d9335286","type":"text","text":"COMBOX/FATP","x":1289,"y":352,"width":250,"height":60},
-		{"id":"7252d90874bd02bc","type":"text","text":"Hanking","x":1289,"y":517,"width":250,"height":60},
-		{"id":"ea3a0298e3c2d93b","type":"text","text":"Packing/Output","x":1289,"y":676,"width":250,"height":60}
+		{"id":"eb188d1534306418","type":"file","file":"Remote note/Work at industrial zone/MPS (1 per Week, send immediately to internal).md","x":40,"y":-101,"width":400,"height":400,"color":"1"},
+		{"id":"e98b34383368b0d0","x":742,"y":-322,"width":400,"height":129,"type":"file","file":"Remote note/Work at industrial zone/Sending Prototype/PO shortage.md"},
+		{"id":"615f6bac705af45c","x":584,"y":-760,"width":158,"height":80,"color":"6","type":"text","text":"Linzy | A247 | Nga"},
+		{"id":"2d934a09180a62c1","x":854,"y":-760,"width":166,"height":80,"color":"6","type":"text","text":"Alina | B825 | Nguyet Anh"},
+		{"id":"ad9058c0d9335286","type":"text","text":"COMBOX/FATP","x":1358,"y":442,"width":250,"height":60},
+		{"id":"7252d90874bd02bc","type":"text","text":"Hanking","x":1358,"y":607,"width":250,"height":60},
+		{"id":"ea3a0298e3c2d93b","type":"text","text":"Packing/Output","x":1358,"y":766,"width":250,"height":60},
+		{"id":"a87f8641cb6633fd","type":"file","file":"Remote note/Work at industrial zone/Ramp plan.md","x":1321,"y":15,"width":325,"height":314},
+		{"id":"575526b3d6447d0f","x":1196,"y":-760,"width":250,"height":60,"type":"text","text":"Thu: 29748 | pp3"},
+		{"id":"d18c26f0fdbb3815","x":1560,"y":-760,"width":250,"height":60,"type":"text","text":"pp2"},
+		{"id":"3dc77f018a867936","x":2380,"y":-522,"width":400,"height":400,"type":"file","file":"Remote note/Work at industrial zone/PSD.md"},
+		{"id":"262ba584d55703fe","x":2455,"y":112,"width":250,"height":60,"type":"text","text":"PO shortage"},
+		{"id":"1f5551399c05abf5","x":2455,"y":269,"width":250,"height":60,"type":"text","text":"PSD Summary"},
+		{"id":"d719fd3c2aadf9ee","x":2455,"y":442,"width":250,"height":60,"type":"text","text":"Shipment data\n"}
 	],
 	"edges":[
 		{"id":"08d79d85994e0dec","fromNode":"eb188d1534306418","fromSide":"right","toNode":"24f10a99222ed1fb","toSide":"left"},
@@ -22,6 +31,23 @@
 		{"id":"3034d1dac7ab551b","fromNode":"7252d90874bd02bc","fromSide":"top","toNode":"ad9058c0d9335286","toSide":"bottom"},
 		{"id":"ec90ed7dd000fca1","fromNode":"ad9058c0d9335286","fromSide":"bottom","toNode":"7252d90874bd02bc","toSide":"top"},
 		{"id":"05017a5e6f0e3276","fromNode":"7252d90874bd02bc","fromSide":"bottom","toNode":"ea3a0298e3c2d93b","toSide":"top"},
-		{"id":"082ee99ea0b0a106","fromNode":"ea3a0298e3c2d93b","fromSide":"top","toNode":"7252d90874bd02bc","toSide":"bottom"}
+		{"id":"082ee99ea0b0a106","fromNode":"ea3a0298e3c2d93b","fromSide":"top","toNode":"7252d90874bd02bc","toSide":"bottom"},
+		{"id":"f140d4d2af65e542","fromNode":"eb188d1534306418","fromSide":"bottom","toNode":"db6dde6f7e8b14bd","toSide":"top"},
+		{"id":"426fd27a4c4c7f24","fromNode":"db6dde6f7e8b14bd","fromSide":"top","toNode":"eb188d1534306418","toSide":"bottom"},
+		{"id":"6f1b9972b782f6b4","fromNode":"61c9f9043170d765","fromSide":"left","toNode":"db6dde6f7e8b14bd","toSide":"right"},
+		{"id":"46cd99988a56d322","fromNode":"ea3a0298e3c2d93b","fromSide":"left","toNode":"6ee88086355d210d","toSide":"right"},
+		{"id":"3792774adbe2087d","fromNode":"e98b34383368b0d0","fromSide":"bottom","toNode":"24f10a99222ed1fb","toSide":"top"},
+		{"id":"2e2f806cb575ac3c","fromNode":"eb188d1534306418","fromSide":"top","toNode":"615f6bac705af45c","toSide":"bottom"},
+		{"id":"f26bc0c71e43703b","fromNode":"eb188d1534306418","fromSide":"top","toNode":"2d934a09180a62c1","toSide":"bottom"},
+		{"id":"e2c650503bfbab67","fromNode":"615f6bac705af45c","fromSide":"top","toNode":"e98b34383368b0d0","toSide":"top"},
+		{"id":"52cec6652fee6a6b","fromNode":"2d934a09180a62c1","fromSide":"top","toNode":"e98b34383368b0d0","toSide":"top"},
+		{"id":"3f0af45e873559e7","fromNode":"24f10a99222ed1fb","fromSide":"right","toNode":"3dc77f018a867936","toSide":"left"},
+		{"id":"a0e6108856ff4d9b","fromNode":"e98b34383368b0d0","fromSide":"right","toNode":"262ba584d55703fe","toSide":"left"},
+		{"id":"1d28ce9dcbfd334e","fromNode":"3dc77f018a867936","fromSide":"bottom","toNode":"262ba584d55703fe","toSide":"top"},
+		{"id":"4eeb23d7f3af5ace","fromNode":"262ba584d55703fe","fromSide":"top","toNode":"3dc77f018a867936","toSide":"bottom"},
+		{"id":"3980e09fe0d04ba5","fromNode":"575526b3d6447d0f","fromSide":"right","toNode":"1f5551399c05abf5","toSide":"left"},
+		{"id":"5dfbb48bd01f8ebf","fromNode":"575526b3d6447d0f","fromSide":"right","toNode":"d719fd3c2aadf9ee","toSide":"left"},
+		{"id":"97e6700d34707dbd","fromNode":"d18c26f0fdbb3815","fromSide":"right","toNode":"1f5551399c05abf5","toSide":"left"},
+		{"id":"259b88a96a7aa809","fromNode":"d18c26f0fdbb3815","fromSide":"right","toNode":"262ba584d55703fe","toSide":"left"}
 	]
 }
